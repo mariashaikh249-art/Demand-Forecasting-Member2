@@ -1,4 +1,3 @@
-# Demand-Forecasting-Member2
 Demand Forecasting Tool for a Nonprofit Organization — Member 2 (Matplotlib/Seaborn)
 SDC Internship — Group 17 Role: Member 2 — Individual Contributor Tool used: Python (pandas, Matplotlib, Seaborn) in Jupyter Notebook Group Lead: Areeba Rasool (dataset shared from her repo)
 
